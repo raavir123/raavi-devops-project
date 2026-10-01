@@ -1,5 +1,16 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orange Airlines</title>
+</head>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="left">MIND CIRCUIT AWS DEVOPS TRAINING - We don't just train people ;; we COACH, MENTOR, and BUILD PEOPLE !! </h1>
+
+    <h1>Welcome to Orange Airlines</h1>
+
+    <button>Login</button>
+    <button>Sign Up</button>
+
 </body>
 </html>
