@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Orange Airlines</title>
-</head>
-<body>
-
-    <h1>Welcome to Orange Airlines</h1>
-
-    <button>Login</button>
-    <button>Sign Up</button>
-
-</body>
+	<head> 
+		<meta charset="UTF-8"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>Orange Airlines</title> 
+		<style> h1 { color: orange; } 
+	</style> 
+	</head> 
+	<body> 
+		<h1>Welcome to Orange Airlines</h1> 
+		<button>Login</button> 
+		<button>Sign Up</button> 
+	</body>
 </html>
